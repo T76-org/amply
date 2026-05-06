@@ -9,6 +9,7 @@ Designed for desktop speakers, it delivers up to 2×10 W into 8 Ω loads while r
 Despite its low cost, Amply offers surprisingly strong audio performance: THD below 0.015%, excellent linearity, and a flat response extending down to 20 Hz for deep bass, clean mids, and detailed highs.
 
 - [Interactive BOM](./bom/ibom.html)
+- [Interactive schematic](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FT76-org%2Famply)
 
 ## Features
 
@@ -27,4 +28,3 @@ Despite its low cost, Amply offers surprisingly strong audio performance: THD be
 - Uses widely available, low-cost components (total cost around $10)
 - 3D-printed enclosure design included in the repository
 
-## Assembly and usage
