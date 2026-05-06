@@ -10,6 +10,8 @@ Despite its low cost, Amply offers surprisingly strong audio performance: THD be
 
 - [Interactive BOM](./bom/ibom.html)
 - [Interactive schematic](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FT76-org%2Famply)
+- [Production files](./production)
+- [Reference 3D enclosure](./enclosure)
 
 ## Features
 
@@ -17,7 +19,7 @@ Despite its low cost, Amply offers surprisingly strong audio performance: THD be
     - Optional On/Off, muting, pause, next/previous track controls
 - Class AB amplifier capable of delivering up to 2×10 W into 8 Ω
 - THD (simulated) below 0.015% at 10W
-- Nearly-flat frequency response from 20 Hz to 20 kHz
+- Largely-flat frequency response from 20 Hz to 20 kHz
 - Powered by a standard USB-C power adapter (5-20 V, 1 A)
 
 ## Physical design
